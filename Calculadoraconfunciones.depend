@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624400584 source:c:\users\jakim\desktop\practicas c\codeblock\calculadoraconfunciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
